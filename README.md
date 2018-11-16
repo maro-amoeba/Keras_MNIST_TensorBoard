@@ -3,7 +3,7 @@
 「ランタイム」→すべてのセルを実行→(実行前にランタイムをすべてリセットする)このまま実行→はい
 その後出力されるTensorBoardのURL(https://XXXXXXXX.ngrok.io )にアクセスできます。
 
-###主なコンテンツ
+### 主なコンテンツ
 ・colaboratoryでのngrokを用いたTensorBoardの表示  
 ・Projectorを表示するためのsprite画像・メタデータの生成
 
