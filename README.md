@@ -1,3 +1,5 @@
+[【データ可視化】TensorBoardのProjectorをKerasとColaboratoryで実行する](https://qiita.com/maro_amoeba/items/2d959df3922ec7316d84)
+
 # Keras_MNIST_TensorBoard  
 
 「ランタイム」→すべてのセルを実行→(実行前にランタイムをすべてリセットする)このまま実行→はい
